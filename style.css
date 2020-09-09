@@ -1,0 +1,13 @@
+h2{
+    color:DodgerBlue;
+}
+h1{
+    color: darkblue;
+    border: dimgray 3px;
+    border-style: dashed;
+}
+img { 
+    border: 10px solid transparent;
+    padding: 15px;
+    border-image: url(border.png) 30 stretch;
+}
